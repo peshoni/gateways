@@ -22,6 +22,7 @@ import com.pepe.gateways.task.utils.GatesUtility;
  */
 @Service(value = "gatewayService")
 public class GatewayService {
+
 	private final GatewayRepository gatewayRepository;
 	private final DevicesRepository devicesRepository;
 

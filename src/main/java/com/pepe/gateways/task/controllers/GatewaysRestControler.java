@@ -64,7 +64,6 @@ public class GatewaysRestControler {
 	}
 
 	// endregion Gateways
-
 	// region Devices
 
 	@PostMapping(value = "devices/")
