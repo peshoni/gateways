@@ -13,7 +13,7 @@
 	<artifactId>gateways</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>gateways</name>
+	<name>gateways-api</name>
 	<description>Task for managing gateways</description>
 	 
 	<properties>
